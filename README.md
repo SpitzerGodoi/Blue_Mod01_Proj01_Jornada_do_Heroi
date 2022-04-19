@@ -1,6 +1,7 @@
 # Projeto_01-BlueEdtech
 
 Projeto 1 - A Jornada do Herói
+<br>
 Hoje nós começamos o nosso primeiro projeto entregável! Esse projeto vai avaliar os conteúdos passados durante essa primeira semana, e se você consegue desenvolver uma programação utilizando todos eles.
 Você poderá usar as aulas de Codelab para trabalhar no seu projeto.
 A premissa é a seguinte: O nosso herói chegou ao fim da sua jornada, ao desafio final, e você pode criar um background legal resumindo qual foi essa jornada e onde ele chegou. Use sua criatividade! Vale qualquer coisa: Uma guerreira que percorreu um longo caminho para enfrentar um bruxo e salvar seu povo, um astronauta que teve que viajar aos confins da galáxia para deter uma anomalia que iria engolir seu planeta, ou uma pessoa que está voltando para casa ao fim de um dia cansativo e precisa fazer o jantar.
